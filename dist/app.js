@@ -34,9 +34,9 @@ function card(row) {
   topic.textContent = row.topic;
   const actions = document.createElement('div');
   actions.className = 'actions';
-  const answerLinks = (row.answerPages || []).map(page => [
-    row.answerPages.length > 1 ? 'Answers p. '+page : 'Answers', row.answer+'#page='+page,
-  ]);
+  const answerLinks = row.answerPages?.length
+    ? row.answerPages.map(page => [row.answerPages.length > 1 ? 'Answers p. '+page : 'Answers', row.answer+'#page='+page])
+    : row.answer ? [['Answers', row.answer]] : [];
   for (const [name, href] of [['Open puzzle', row.file], ...answerLinks]) {
     const link = document.createElement('a');
     link.textContent = name;
@@ -66,6 +66,12 @@ function card(row) {
   article.append(meta,title,topic,actions);
   return article;
 }
+function comparePuzzles(a, b) {
+  const titleOrder = () => collator.compare(a.title, b.title);
+  if ($('sort').value === 'title') return titleOrder();
+  return a.years[0] - b.years[0] || collator.compare(a.subject, b.subject)
+    || collator.compare(a.strand, b.strand) || collator.compare(a.topic, b.topic) || titleOrder();
+}
 function render() {
   let results = catalogue;
   for (const [field, menu] of menus) {
@@ -84,7 +90,7 @@ function render() {
   const rows = results.filter(row=>years.every(y=>row.years.includes(y)))
     .map(row=>({row,score:match(row,text,terms)}))
     .filter(result=>result.score>=0)
-    .sort((a,b)=>b.score-a.score || collator.compare(a.row.title,b.row.title)).map(result=>result.row);
+    .sort((a,b)=>b.score-a.score || comparePuzzles(a.row,b.row)).map(result=>result.row);
   const size=Number($('size').value);
   const pages=Math.max(1,Math.ceil(rows.length/size));
   page=Math.min(page,pages);
@@ -100,6 +106,7 @@ function resetPage(){ page=1; render(); }
 for (const menu of menus.values()) menu.addEventListener('change',resetPage);
 $('query').addEventListener('input',resetPage);
 $('size').addEventListener('change',resetPage);
+$('sort').addEventListener('change',resetPage);
 $('clear').addEventListener('click',()=>{ $('query').value=''; for(const menu of menus.values()) menu.value=''; resetPage(); });
 for(const [id,delta] of [['prev',-1],['next',1]]) $(id).addEventListener('click',()=>{ page+=delta;render();$('status').scrollIntoView({block:'nearest'}); });
 try {

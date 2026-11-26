@@ -8794,5 +8794,477 @@
     "previewWidth": 480,
     "previewHeight": 622,
     "answer": "resources/Maths/Funtabulous%20maths%20puzzles/Answers/41%20-%20A%20Timely%20Puzzle%20-%20Answers.pdf"
+  },
+  {
+    "id": "science-research-vol-2-01",
+    "title": "Magnetism and Electricity",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Magnetism and Electrical Circuits",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/01%20-%20Magnetism%20and%20Electricity.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/01%20-%20Magnetism%20and%20Electricity%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-01.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-02",
+    "title": "Force and Gravity",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Forces and Simple Machines",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/02%20-%20Force%20and%20Gravity.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/02%20-%20Force%20and%20Gravity%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-02.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-03",
+    "title": "Space and the Universe",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      10
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "The Solar System, Stars and Galaxies",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/03%20-%20Space%20and%20the%20Universe.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/03%20-%20Space%20and%20the%20Universe%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-03.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-04",
+    "title": "Birds and Flight",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Animal Adaptations and Flight",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/04%20-%20Birds%20and%20Flight.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/04%20-%20Birds%20and%20Flight%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-04.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-05",
+    "title": "Light, Sound and Heat",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      9
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Light, Sound and Heat",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/05%20-%20Light%2C%20Sound%20and%20Heat.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/05%20-%20Light%2C%20Sound%20and%20Heat%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-05.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-06",
+    "title": "Creatures of the Deep",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification of Marine Organisms",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/06%20-%20Creatures%20of%20the%20Deep.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/06%20-%20Creatures%20of%20the%20Deep%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-06.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-07",
+    "title": "Dinosaurs",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Evolution and the Fossil Record",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/07%20-%20Dinosaurs.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/07%20-%20Dinosaurs%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-07.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-08",
+    "title": "Weather and Climate",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Weather and Climate",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/08%20-%20Weather%20and%20Climate.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/08%20-%20Weather%20and%20Climate%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-08.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-09",
+    "title": "Mammals Large and Small",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification of Mammals",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/09%20-%20Mammals%20Large%20and%20Small.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/09%20-%20Mammals%20Large%20and%20Small%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-09.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-10",
+    "title": "Mini Beasts (Creepy Crawlies)",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification of Invertebrates",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/10%20-%20Mini%20Beasts%20%28Creepy%20Crawlies%29.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/10%20-%20Mini%20Beasts%20%28Creepy%20Crawlies%29%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-10.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-11",
+    "title": "Violent Earth",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Plate Tectonics and Geological Activity",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/11%20-%20Violent%20Earth.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/11%20-%20Violent%20Earth%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-11.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-12",
+    "title": "Science of the Environment",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Global Systems and Environmental Change",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/12%20-%20Science%20of%20the%20Environment.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/12%20-%20Science%20of%20the%20Environment%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-12.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-13",
+    "title": "Reptiles and Amphibians",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification of Vertebrates",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/13%20-%20Reptiles%20and%20Amphibians.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/13%20-%20Reptiles%20and%20Amphibians%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-13.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-14",
+    "title": "The Human Body",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Human Body Systems",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/14%20-%20The%20Human%20Body.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/14%20-%20The%20Human%20Body%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-14.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-15",
+    "title": "Tiny and Tinier",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Cells and Microscopy",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/15%20-%20Tiny%20and%20Tinier.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/15%20-%20Tiny%20and%20Tinier%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-15.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-16",
+    "title": "Plants and Fungi",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification and Plant Structure",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/16%20-%20Plants%20and%20Fungi.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/16%20-%20Plants%20and%20Fungi%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-16.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-17",
+    "title": "Planet Earth",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8,
+      9
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Earth, Rocks and the Atmosphere",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/17%20-%20Planet%20Earth.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/17%20-%20Planet%20Earth%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-17.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-18",
+    "title": "Nature and the Environment",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Global Systems and Environmental Change",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/18%20-%20Nature%20and%20the%20Environment.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/18%20-%20Nature%20and%20the%20Environment%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-18.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-19",
+    "title": "Ecosystems and Habitats",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Ecosystems and Habitats",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/19%20-%20Ecosystems%20and%20Habitats.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/19%20-%20Ecosystems%20and%20Habitats%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-19.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-20",
+    "title": "Famous Scientists and Inventors",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8,
+      9
+    ],
+    "strand": "Science Inquiry",
+    "topic": "History of Scientific Discoveries",
+    "type": "Research crossword",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/20%20-%20Famous%20Scientists%20and%20Inventors.pdf",
+    "answer": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Answers/20%20-%20Famous%20Scientists%20and%20Inventors%20-%20Answers.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-20.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-research-vol-2-21",
+    "title": "Science Crossword Challenge Template",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8,
+      9
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Science Vocabulary and Communication",
+    "type": "Crossword template",
+    "collection": "Science Research Puzzles Vol 2",
+    "keywords": [
+      "crossword",
+      "research"
+    ],
+    "file": "resources/Science/Science%20Research%20Puzzles%20Vol%202/Puzzles/Bonus%20-%20Science%20Crossword%20Challenge%20Template.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-21.webp",
+    "previewWidth": 480,
+    "previewHeight": 680
   }
 ]

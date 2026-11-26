@@ -1,0 +1,33 @@
+:root { font-family: system-ui, sans-serif; color: #18312e; background: #f5f7f3; color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+header { background: #173b35; border-bottom: 4px solid #e4bb67; padding: 18px clamp(16px, 5vw, 80px); }
+.brand { color: #fff; font-size: 1.1rem; font-weight: 730; text-decoration: none; }
+.brand span { color: #e4bb67; margin-right: 7px; }
+main { margin: 0 auto; max-width: 1660px; padding: 34px clamp(16px, 5vw, 80px) 48px; }
+h1 { font-size: clamp(2rem, 5vw, 3.6rem); margin: 0; letter-spacing: -.045em; }
+.intro p { color: #4c625b; margin: 12px 0 26px; }
+.controls { border: 1px solid #d6e0d8; background: #fff; border-radius: 12px; padding: 18px; }
+label { font-weight: 650; font-size: .9rem; }
+.search, .filters label { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.filters { margin-top: 14px; display: grid; gap: 12px; grid-template-columns: repeat(auto-fit,minmax(154px,1fr)); }
+input, select, button { font: inherit; color: inherit; min-height: 40px; border: 1px solid #a6b9ad; border-radius: 7px; padding: 7px 10px; background: #fff; }
+select { width: 100%; }
+button { cursor: pointer; }
+button:disabled { cursor: default; opacity: .5; }
+:focus-visible { outline: 3px solid #2f7c6d; outline-offset: 3px; }
+.results-bar, .results-bar > div, nav { display: flex; flex-wrap: wrap; align-items: center; column-gap: 10px; }
+.results-bar { justify-content: space-between; margin: 12px 0; }
+.results-bar select { width: auto; }
+.results { display: grid; grid-template-columns: repeat(auto-fill,minmax(min(100%, 255px),1fr)); gap: 12px; }
+article { background: #fff; padding: 16px; display: flex; flex-direction: column; border: 1px solid #d6e0d8; border-radius: 10px; min-width: 0; }
+.meta { color: #45615a; font-size: .85rem; margin: 0; }
+h2 { margin: 9px 0 6px; font-size: 1.16rem; overflow-wrap: anywhere; }
+.topic { font-size: .94rem; margin: 0 0 15px; }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: auto; }
+.actions a { color: #205d4d; font-weight: 650; padding: 6px 0; }
+nav { justify-content: center; margin-top: 20px; }
+nav[hidden] { display: none; }
+.preview { display: grid; place-items: center; height: 196px; margin-bottom: 13px; padding: 8px; border: 1px solid #d6e0d8; background: #eef3ed; border-radius: 7px; }
+.preview:hover { border-color: #528679; }
+.preview img { width: auto; height: auto; max-width: 100%; max-height: 178px; background: #fff; box-shadow: 0 1px 5px #18312e29; }

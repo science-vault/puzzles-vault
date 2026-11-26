@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Puzzles Vault</title>
+<link rel="stylesheet" href="style.css">
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<header><a href="./" class="brand"><span aria-hidden="true">✦</span> Puzzles Vault</a></header>
+<main>
+<section class="intro"><h1>Find a classroom puzzle</h1><p>Browse by year, subject and topic. Open a printable puzzle or go straight to its answers.</p></section>
+<section class="controls" aria-label="Puzzle filters">
+<label class="search">Search puzzles<input id="query" type="search" placeholder="Try Year 8 electrical circuits"></label>
+<div id="filters" class="filters"></div>
+</section>
+<div class="results-bar"><p id="status" aria-live="polite">Loading puzzles…</p><div><label for="size">Per page</label><select id="size"><option>20</option><option selected>40</option><option>60</option></select><button id="clear" type="button">Clear filters</button></div></div>
+<section id="results" aria-label="Puzzle results" class="results"></section>
+<nav id="pages" aria-label="Puzzle pages" hidden><button id="prev" type="button">Previous</button><span id="page"></span><button id="next" type="button">Next</button></nav>
+</main>
+</body>
+</html>

@@ -1,0 +1,2908 @@
+[
+  {
+    "id": "science-puzzles-001",
+    "title": "Beakers and Bunsens",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/001-beakers-and-bunsens.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      1
+    ],
+    "keywords": [
+      "502.8/01"
+    ],
+    "preview": "previews/science-puzzles-001.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-002",
+    "title": "Mixed-Up Microscope",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Cells and Microscopy",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/002-mixed-up-microscope.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      1
+    ],
+    "keywords": [
+      "502.8/03"
+    ],
+    "preview": "previews/science-puzzles-002.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-003",
+    "title": "Toy Time",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/003-toy-time.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      1
+    ],
+    "keywords": [
+      "502.8/05"
+    ],
+    "preview": "previews/science-puzzles-003.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-004",
+    "title": "Kids' Stuff",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/004-kids-stuff.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      2
+    ],
+    "keywords": [
+      "502.8/07"
+    ],
+    "preview": "previews/science-puzzles-004.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-005",
+    "title": "Discoveries",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "strand": "Science Inquiry",
+    "topic": "History of Scientific Discoveries",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/005-discoveries.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      2
+    ],
+    "keywords": [
+      "509/01"
+    ],
+    "preview": "previews/science-puzzles-005.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-006",
+    "title": "Seeing Stars",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Stars, Galaxies and the Universe",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/006-seeing-stars.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      2
+    ],
+    "keywords": [
+      "522/01"
+    ],
+    "preview": "previews/science-puzzles-006.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-007",
+    "title": "A Spiral Solution",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Stars, Galaxies and the Universe",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/007-a-spiral-solution.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      2
+    ],
+    "keywords": [
+      "523/02"
+    ],
+    "preview": "previews/science-puzzles-007.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-008",
+    "title": "It's Lunacy",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Earth, Moon and the Solar System",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/008-it-s-lunacy.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      20
+    ],
+    "keywords": [
+      "523.3/01"
+    ],
+    "preview": "previews/science-puzzles-008.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-009",
+    "title": "Planetary Problems",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Earth, Moon and the Solar System",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/009-planetary-problems.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      20
+    ],
+    "keywords": [
+      "523.4/02"
+    ],
+    "preview": "previews/science-puzzles-009.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-010",
+    "title": "Twinkle, Twinkle",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Stars, Galaxies and the Universe",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/010-twinkle-twinkle.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      20
+    ],
+    "keywords": [
+      "523.8/01"
+    ],
+    "preview": "previews/science-puzzles-010.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-011",
+    "title": "Push 'n Pull",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Forces and Simple Machines",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/011-push-n-pull.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      3
+    ],
+    "keywords": [
+      "531.1/01"
+    ],
+    "preview": "previews/science-puzzles-011.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-012",
+    "title": "Directional Dilemma",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Forces and Simple Machines",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/012-directional-dilemma.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      3
+    ],
+    "keywords": [
+      "531.1/03"
+    ],
+    "preview": "previews/science-puzzles-012.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-013",
+    "title": "Finding Forces",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Forces and Simple Machines",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/013-finding-forces.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      3
+    ],
+    "keywords": [
+      "531.11/01"
+    ],
+    "preview": "previews/science-puzzles-013.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-014",
+    "title": "Mad Mike II",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Forces and Simple Machines",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/014-mad-mike-ii.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      19
+    ],
+    "keywords": [
+      "531.11/03"
+    ],
+    "preview": "previews/science-puzzles-014.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-015",
+    "title": "An Energy Enigma",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Energy Transfers and Heat",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/015-an-energy-enigma.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      19
+    ],
+    "keywords": [
+      "531.6/01"
+    ],
+    "preview": "previews/science-puzzles-015.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-016",
+    "title": "Learning About Levers",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Forces and Simple Machines",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/016-learning-about-levers.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      19
+    ],
+    "keywords": [
+      "531.8/02"
+    ],
+    "preview": "previews/science-puzzles-016.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-017",
+    "title": "An Incidental Inquiry",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/017-an-incidental-inquiry.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      19
+    ],
+    "keywords": [
+      "535.2/01"
+    ],
+    "preview": "previews/science-puzzles-017.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-018",
+    "title": "The Focal Point",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Light, Sound and Waves",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/018-the-focal-point.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      4
+    ],
+    "keywords": [
+      "535.3/02"
+    ],
+    "preview": "previews/science-puzzles-018.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-019",
+    "title": "Getting Hotter",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Energy Transfers and Heat",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/019-getting-hotter.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      4
+    ],
+    "keywords": [
+      "536.2/01"
+    ],
+    "preview": "previews/science-puzzles-019.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-020",
+    "title": "A Specific Solution",
+    "area": "Science",
+    "subject": "Physics",
+    "years": [
+      11
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Heating and Specific Heat Capacity",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/020-a-specific-solution.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      4
+    ],
+    "keywords": [
+      "536.6/01"
+    ],
+    "preview": "previews/science-puzzles-020.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-021",
+    "title": "Ohm at Last",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Electrical Circuits",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/021-ohm-at-last.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      18
+    ],
+    "keywords": [
+      "537.6/01"
+    ],
+    "preview": "previews/science-puzzles-021.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-022",
+    "title": "A Magnetic Mystery",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Magnetism",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/022-a-magnetic-mystery.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      18
+    ],
+    "keywords": [
+      "538/01"
+    ],
+    "preview": "previews/science-puzzles-022.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-023",
+    "title": "Symbol Search",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Atoms, Elements and Compounds",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/023-symbol-search.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      18
+    ],
+    "keywords": [
+      "541.2/01"
+    ],
+    "preview": "previews/science-puzzles-023.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-024",
+    "title": "Ferreting Out Formulae",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Chemical Formulae and Bonding",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/024-ferreting-out-formulae.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      5
+    ],
+    "keywords": [
+      "541.2/03"
+    ],
+    "preview": "previews/science-puzzles-024.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-025",
+    "title": "The Mole-Hole Game",
+    "area": "Science",
+    "subject": "Chemistry",
+    "years": [
+      11
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Chemical Quantities and the Mole",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/025-the-mole-hole-game.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      5
+    ],
+    "keywords": [
+      "541.22/01"
+    ],
+    "preview": "previews/science-puzzles-025.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-026",
+    "title": "Togetherness",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Chemical Formulae and Bonding",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/026-togetherness.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      17
+    ],
+    "keywords": [
+      "541.22/03"
+    ],
+    "preview": "previews/science-puzzles-026.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-027",
+    "title": "Seeking a Solution",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Particle Model and Separating Mixtures",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/027-seeking-a-solution.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      17
+    ],
+    "keywords": [
+      "541.34/01"
+    ],
+    "preview": "previews/science-puzzles-027.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-028",
+    "title": "A Rapid Reaction",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Rates and Patterns of Chemical Reactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/028-a-rapid-reaction.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      17
+    ],
+    "keywords": [
+      "541.37/01"
+    ],
+    "preview": "previews/science-puzzles-028.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-029",
+    "title": "Particle Puzzle",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Particle Model and Separating Mixtures",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/029-particle-puzzle.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      17
+    ],
+    "keywords": [
+      "541.24/01"
+    ],
+    "preview": "previews/science-puzzles-029.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-030",
+    "title": "Chemical Conundrum",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Rates and Patterns of Chemical Reactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/030-chemical-conundrum.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      5
+    ],
+    "keywords": [
+      "541.22/02"
+    ],
+    "preview": "previews/science-puzzles-030.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-031",
+    "title": "Formula Fun",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Chemical Formulae and Bonding",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/031-formula-fun.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      5
+    ],
+    "keywords": [
+      "541.2/04"
+    ],
+    "preview": "previews/science-puzzles-031.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-032",
+    "title": "Family Fun",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Periodic Table and Element Families",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/032-family-fun.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      5
+    ],
+    "keywords": [
+      "541.2/02"
+    ],
+    "preview": "previews/science-puzzles-032.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-033",
+    "title": "Getting Physical",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Physical and Chemical Changes",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/033-getting-physical.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      18
+    ],
+    "keywords": [
+      "541/01"
+    ],
+    "preview": "previews/science-puzzles-033.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-034",
+    "title": "The Electrical Circuit",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Electrical Circuits",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/034-the-electrical-circuit.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      18
+    ],
+    "keywords": [
+      "537.6/02"
+    ],
+    "preview": "previews/science-puzzles-034.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-035",
+    "title": "A Cool Question",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Energy Transfers and Heat",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/035-a-cool-question.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      18
+    ],
+    "keywords": [
+      "536.6/02"
+    ],
+    "preview": "previews/science-puzzles-035.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-036",
+    "title": "Hot Stuff",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Energy Transfers and Heat",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/036-hot-stuff.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      4
+    ],
+    "keywords": [
+      "536.4/01"
+    ],
+    "preview": "previews/science-puzzles-036.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-037",
+    "title": "Can You See the Light",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Light, Sound and Waves",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/037-can-you-see-the-light.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      4
+    ],
+    "keywords": [
+      "535.6/01"
+    ],
+    "preview": "previews/science-puzzles-037.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-038",
+    "title": "Focusing Fun",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Light, Sound and Waves",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/038-focusing-fun.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      4
+    ],
+    "keywords": [
+      "535.3/01"
+    ],
+    "preview": "previews/science-puzzles-038.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-039",
+    "title": "A Sound Solution",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Light, Sound and Waves",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/039-a-sound-solution.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      19
+    ],
+    "keywords": [
+      "534/01"
+    ],
+    "preview": "previews/science-puzzles-039.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-040",
+    "title": "The Mean Machine",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Forces and Simple Machines",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/040-the-mean-machine.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      19
+    ],
+    "keywords": [
+      "531.8/01"
+    ],
+    "preview": "previews/science-puzzles-040.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-041",
+    "title": "Density Data",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Particle Model and Separating Mixtures",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/041-density-data.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      19
+    ],
+    "keywords": [
+      "531.14/01"
+    ],
+    "preview": "previews/science-puzzles-041.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-042",
+    "title": "Mad Mike I",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Forces and Simple Machines",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/042-mad-mike-i.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      3
+    ],
+    "keywords": [
+      "531.11/02"
+    ],
+    "preview": "previews/science-puzzles-042.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-043",
+    "title": "Pressure Problems",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Pressure",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/043-pressure-problems.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      3
+    ],
+    "keywords": [
+      "531.1/04"
+    ],
+    "preview": "previews/science-puzzles-043.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-044",
+    "title": "A Weighty Problem",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Forces and Simple Machines",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/044-a-weighty-problem.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      3
+    ],
+    "keywords": [
+      "531.1/02"
+    ],
+    "preview": "previews/science-puzzles-044.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-045",
+    "title": "State Secrets",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Particle Model and Separating Mixtures",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/045-state-secrets.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      3
+    ],
+    "keywords": [
+      "530.4/01"
+    ],
+    "preview": "previews/science-puzzles-045.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-046",
+    "title": "Solar Power",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Energy Transfers and Heat",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/046-solar-power.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      20
+    ],
+    "keywords": [
+      "523.7/01"
+    ],
+    "preview": "previews/science-puzzles-046.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-047",
+    "title": "Planetary Probe",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Earth, Moon and the Solar System",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/047-planetary-probe.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      20
+    ],
+    "keywords": [
+      "523.4/01"
+    ],
+    "preview": "previews/science-puzzles-047.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-048",
+    "title": "A Systematic Inquiry",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/048-a-systematic-inquiry.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      20
+    ],
+    "keywords": [
+      "523.2/01"
+    ],
+    "preview": "previews/science-puzzles-048.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-049",
+    "title": "Space Secrets",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Earth, Moon and the Solar System",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/049-space-secrets.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      2
+    ],
+    "keywords": [
+      "523/01"
+    ],
+    "preview": "previews/science-puzzles-049.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-050",
+    "title": "Odd-One-Out",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/050-odd-one-out.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      2
+    ],
+    "keywords": [
+      "509/02"
+    ],
+    "preview": "previews/science-puzzles-050.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-051",
+    "title": "For Woolly Thinkers",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/051-for-woolly-thinkers.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      2
+    ],
+    "keywords": [
+      "502.8/08"
+    ],
+    "preview": "previews/science-puzzles-051.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-052",
+    "title": "Understanding Units",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/052-understanding-units.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      1
+    ],
+    "keywords": [
+      "502.8/06"
+    ],
+    "preview": "previews/science-puzzles-052.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-053",
+    "title": "Measuring Monsters",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/053-measuring-monsters.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      1
+    ],
+    "keywords": [
+      "502.8/04"
+    ],
+    "preview": "previews/science-puzzles-053.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-054",
+    "title": "Tubular Tangle",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/054-tubular-tangle.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      1
+    ],
+    "keywords": [
+      "502.8/02"
+    ],
+    "preview": "previews/science-puzzles-054.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-055",
+    "title": "Chemical Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Rates and Patterns of Chemical Reactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/055-chemical-challenge.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      17
+    ],
+    "keywords": [
+      "541.37/02"
+    ],
+    "preview": "previews/science-puzzles-055.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-056",
+    "title": "A Basic Problem",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Rates and Patterns of Chemical Reactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/056-a-basic-problem.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      17
+    ],
+    "keywords": [
+      "546.24/01"
+    ],
+    "preview": "previews/science-puzzles-056.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-057",
+    "title": "Metal Mystery",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Rates and Patterns of Chemical Reactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/057-metal-mystery.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      6
+    ],
+    "keywords": [
+      "546.31/01"
+    ],
+    "preview": "previews/science-puzzles-057.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-058",
+    "title": "Carbon Compounds",
+    "area": "Science",
+    "subject": "Chemistry",
+    "years": [
+      11,
+      12
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Organic Chemistry and Materials",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/058-carbon-compounds.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      6
+    ],
+    "keywords": [
+      "547/01"
+    ],
+    "preview": "previews/science-puzzles-058.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-059",
+    "title": "A Quivering Quiz",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Light, Sound and Waves",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/059-a-quivering-quiz.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      6
+    ],
+    "keywords": [
+      "551.2/01"
+    ],
+    "preview": "previews/science-puzzles-059.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-060",
+    "title": "Atmospherics",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Weather, Water and Global Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/060-atmospherics.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      16
+    ],
+    "keywords": [
+      "551.5/01"
+    ],
+    "preview": "previews/science-puzzles-060.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-061",
+    "title": "Forecasting Fun",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Weather, Water and Global Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/061-forecasting-fun.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      16
+    ],
+    "keywords": [
+      "551.6/01"
+    ],
+    "preview": "previews/science-puzzles-061.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-062",
+    "title": "Mix and Match",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Particle Model and Separating Mixtures",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/062-mix-and-match.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      16
+    ],
+    "keywords": [
+      "552/01"
+    ],
+    "preview": "previews/science-puzzles-062.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-063",
+    "title": "Watery Words",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Particle Model and Separating Mixtures",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/063-watery-words.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      7
+    ],
+    "keywords": [
+      "553/01"
+    ],
+    "preview": "previews/science-puzzles-063.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-064",
+    "title": "A Past Puzzle",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Rocks, Minerals and the Rock Cycle",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/064-a-past-puzzle.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      7
+    ],
+    "keywords": [
+      "560/01"
+    ],
+    "preview": "previews/science-puzzles-064.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-065",
+    "title": "Getting Keyed-Up",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification and Identification Keys",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/065-getting-keyed-up.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      7
+    ],
+    "keywords": [
+      "574/01"
+    ],
+    "preview": "previews/science-puzzles-065.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-066",
+    "title": "Web of Words",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Food Chains, Food Webs and Energy Flow",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/066-web-of-words.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      7
+    ],
+    "keywords": [
+      "574.5/02"
+    ],
+    "preview": "previews/science-puzzles-066.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-067",
+    "title": "Eco-Exercise",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Ecosystems, Populations and Interactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/067-eco-exercise.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      15
+    ],
+    "keywords": [
+      "574.5/04"
+    ],
+    "preview": "previews/science-puzzles-067.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-068",
+    "title": "A Fishy Tale",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Ecosystems, Populations and Interactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/068-a-fishy-tale.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      15
+    ],
+    "keywords": [
+      "574.52/01"
+    ],
+    "preview": "previews/science-puzzles-068.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-069",
+    "title": "It's Cytological",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Cells and Microscopy",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/069-it-s-cytological.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      15
+    ],
+    "keywords": [
+      "574.8/01"
+    ],
+    "preview": "previews/science-puzzles-069.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-070",
+    "title": "Seeking Cells",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Cells and Microscopy",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/070-seeking-cells.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      8
+    ],
+    "keywords": [
+      "574.8/02"
+    ],
+    "preview": "previews/science-puzzles-070.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-071",
+    "title": "Hybrid Humour",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Biological Sciences",
+    "topic": "DNA and Inheritance",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/071-hybrid-humour.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      8
+    ],
+    "keywords": [
+      "575.1/02"
+    ],
+    "preview": "previews/science-puzzles-071.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-072",
+    "title": "A Tall Story",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Biological Sciences",
+    "topic": "DNA and Inheritance",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/072-a-tall-story.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      8
+    ],
+    "keywords": [
+      "581.1/01"
+    ],
+    "preview": "previews/science-puzzles-072.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-073",
+    "title": "Have-a-Heart",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Plant and Animal Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/073-have-a-heart.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      14
+    ],
+    "keywords": [
+      "591.11/01"
+    ],
+    "preview": "previews/science-puzzles-073.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-074",
+    "title": "A Breathtaking Mystery",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Plant and Animal Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/074-a-breathtaking-mystery.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      14
+    ],
+    "keywords": [
+      "591.12/01"
+    ],
+    "preview": "previews/science-puzzles-074.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-075",
+    "title": "Hunting for Hormones",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Responses and Coordination",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/075-hunting-for-hormones.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      14
+    ],
+    "keywords": [
+      "591.14/01"
+    ],
+    "preview": "previews/science-puzzles-075.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-076",
+    "title": "Brain Teasers",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Responses and Coordination",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/076-brain-teasers.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      9
+    ],
+    "keywords": [
+      "591.18/01"
+    ],
+    "preview": "previews/science-puzzles-076.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-077",
+    "title": "Invertebrate Oddities",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification and Identification Keys",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/077-invertebrate-oddities.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      9
+    ],
+    "keywords": [
+      "592/01"
+    ],
+    "preview": "previews/science-puzzles-077.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-078",
+    "title": "Investigating Invertebrates",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification and Identification Keys",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/078-investigating-invertebrates.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      9,
+      17
+    ],
+    "keywords": [
+      "592/03"
+    ],
+    "preview": "previews/science-puzzles-078.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-079",
+    "title": "Discovering Differences",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification and Identification Keys",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/079-discovering-differences.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      13
+    ],
+    "keywords": [
+      "596/02"
+    ],
+    "preview": "previews/science-puzzles-079.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-080",
+    "title": "Vertebrate Vibes",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification and Identification Keys",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/080-vertebrate-vibes.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      13,
+      17
+    ],
+    "keywords": [
+      "596/04"
+    ],
+    "preview": "previews/science-puzzles-080.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-081",
+    "title": "Parasite Puzzle",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Ecosystems, Populations and Interactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/081-parasite-puzzle.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      13
+    ],
+    "keywords": [
+      "614.55/01"
+    ],
+    "preview": "previews/science-puzzles-081.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-082",
+    "title": "ReVOLTing Riddles",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Electrical Circuits",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/082-revolting-riddles.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      10
+    ],
+    "keywords": [
+      "621.3/01"
+    ],
+    "preview": "previews/science-puzzles-082.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-083",
+    "title": "E = mc2",
+    "area": "Science",
+    "subject": "Physics",
+    "years": [
+      11
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Nuclear Physics",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/083-e-mc2.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      10
+    ],
+    "keywords": [
+      "621.48/01"
+    ],
+    "preview": "previews/science-puzzles-083.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-084",
+    "title": "Astronaut Antics",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Stars, Galaxies and the Universe",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/084-astronaut-antics.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      10
+    ],
+    "keywords": [
+      "629.4/01"
+    ],
+    "preview": "previews/science-puzzles-084.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-085",
+    "title": "It's Elementary",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Atoms, Elements and Compounds",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/085-it-s-elementary.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      12
+    ],
+    "keywords": [
+      "660/01"
+    ],
+    "preview": "previews/science-puzzles-085.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-086",
+    "title": "Polymer Puzzle",
+    "area": "Science",
+    "subject": "Chemistry",
+    "years": [
+      11,
+      12
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Organic Chemistry and Materials",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/086-polymer-puzzle.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      12
+    ],
+    "keywords": [
+      "660/03"
+    ],
+    "preview": "previews/science-puzzles-086.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-087",
+    "title": "Petroleum Puzzle",
+    "area": "Science",
+    "subject": "Chemistry",
+    "years": [
+      11,
+      12
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Organic Chemistry and Materials",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/087-petroleum-puzzle.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      12
+    ],
+    "keywords": [
+      "665/01"
+    ],
+    "preview": "previews/science-puzzles-087.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-088",
+    "title": "Metals and Man",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Physical and Chemical Changes",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/088-metals-and-man.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      11
+    ],
+    "keywords": [
+      "669/01"
+    ],
+    "preview": "previews/science-puzzles-088.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-089",
+    "title": "It's a Gas",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Particle Model and Separating Mixtures",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/089-it-s-a-gas.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      11
+    ],
+    "keywords": [
+      "665.7/01"
+    ],
+    "preview": "previews/science-puzzles-089.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-090",
+    "title": "Searching for Synthetics",
+    "area": "Science",
+    "subject": "Chemistry",
+    "years": [
+      11,
+      12
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Organic Chemistry and Materials",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/090-searching-for-synthetics.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      12
+    ],
+    "keywords": [
+      "660/04"
+    ],
+    "preview": "previews/science-puzzles-090.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-091",
+    "title": "Compound Conundrum",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Atoms, Elements and Compounds",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/091-compound-conundrum.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      12
+    ],
+    "keywords": [
+      "660/02"
+    ],
+    "preview": "previews/science-puzzles-091.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-092",
+    "title": "Plants and People",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Plant and Animal Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/092-plants-and-people.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      10
+    ],
+    "keywords": [
+      "631/01"
+    ],
+    "preview": "previews/science-puzzles-092.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-093",
+    "title": "It's a Watery World",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Particle Model and Separating Mixtures",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/093-it-s-a-watery-world.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      10
+    ],
+    "keywords": [
+      "628.1/01"
+    ],
+    "preview": "previews/science-puzzles-093.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-094",
+    "title": "Kilowatt Kapers",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Electrical Circuits",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/094-kilowatt-kapers.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      10
+    ],
+    "keywords": [
+      "621.3/02"
+    ],
+    "preview": "previews/science-puzzles-094.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-095",
+    "title": "An Epidemic Exercise",
+    "area": "Science",
+    "subject": "Biology",
+    "years": [
+      11,
+      12
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Disease and Immunity",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/095-an-epidemic-exercise.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      13
+    ],
+    "keywords": [
+      "616.01/01"
+    ],
+    "preview": "previews/science-puzzles-095.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-096",
+    "title": "Digestive Dilemma",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Plant and Animal Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/096-digestive-dilemma.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      13
+    ],
+    "keywords": [
+      "612.3/01"
+    ],
+    "preview": "previews/science-puzzles-096.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-097",
+    "title": "Fish, Feathers and Fur",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification and Identification Keys",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/097-fish-feathers-and-fur.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      13
+    ],
+    "keywords": [
+      "596/03"
+    ],
+    "preview": "previews/science-puzzles-097.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-098",
+    "title": "What Am I",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification and Identification Keys",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/098-what-am-i.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      9
+    ],
+    "keywords": [
+      "596/01"
+    ],
+    "preview": "previews/science-puzzles-098.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-099",
+    "title": "A Spineless Solution",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification and Identification Keys",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/099-a-spineless-solution.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      9
+    ],
+    "keywords": [
+      "592/02"
+    ],
+    "preview": "previews/science-puzzles-099.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-100",
+    "title": "Filling in Facts",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification and Identification Keys",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/100-filling-in-facts.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      9
+    ],
+    "keywords": [
+      "591.4/01"
+    ],
+    "preview": "previews/science-puzzles-100.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-101",
+    "title": "The Facts of Life",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Plant and Animal Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/101-the-facts-of-life.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      9
+    ],
+    "keywords": [
+      "591.16/01"
+    ],
+    "preview": "previews/science-puzzles-101.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-102",
+    "title": "A Growing Problem",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Plant and Animal Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/102-a-growing-problem.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      14
+    ],
+    "keywords": [
+      "591.13/01"
+    ],
+    "preview": "previews/science-puzzles-102.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-103",
+    "title": "Circulation Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Plant and Animal Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/103-circulation-challenge.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      14
+    ],
+    "keywords": [
+      "591.11/02"
+    ],
+    "preview": "previews/science-puzzles-103.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-104",
+    "title": "Flower Power",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Plant and Animal Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/104-flower-power.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      8
+    ],
+    "keywords": [
+      "581.4/01"
+    ],
+    "preview": "previews/science-puzzles-104.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-105",
+    "title": "Plant Puzzle",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Plant and Animal Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/105-plant-puzzle.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      8
+    ],
+    "keywords": [
+      "581/01"
+    ],
+    "preview": "previews/science-puzzles-105.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-106",
+    "title": "Mystery Mongrel",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Biological Sciences",
+    "topic": "DNA and Inheritance",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/106-mystery-mongrel.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      8
+    ],
+    "keywords": [
+      "575.1/01"
+    ],
+    "preview": "previews/science-puzzles-106.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-107",
+    "title": "Camel Capers",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Adaptations and Responses",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/107-camel-capers.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      15
+    ],
+    "keywords": [
+      "574.52/02"
+    ],
+    "preview": "previews/science-puzzles-107.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-108",
+    "title": "Population Problems",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Ecosystems, Populations and Interactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/108-population-problems.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      15
+    ],
+    "keywords": [
+      "574.5/05"
+    ],
+    "preview": "previews/science-puzzles-108.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-109",
+    "title": "Researching Relationships",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Ecosystems, Populations and Interactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/109-researching-relationships.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      15,
+      17
+    ],
+    "keywords": [
+      "574.5/03"
+    ],
+    "preview": "previews/science-puzzles-109.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-110",
+    "title": "The Food Chain Game",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Food Chains, Food Webs and Energy Flow",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/110-the-food-chain-game.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      7
+    ],
+    "keywords": [
+      "574.5/01"
+    ],
+    "preview": "previews/science-puzzles-110.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-111",
+    "title": "Ancestral Antics",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Evolution and Natural Selection",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/111-ancestral-antics.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      7
+    ],
+    "keywords": [
+      "560/02"
+    ],
+    "preview": "previews/science-puzzles-111.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-112",
+    "title": "Dirty Words",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Rocks, Minerals and the Rock Cycle",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/112-dirty-words.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      7
+    ],
+    "keywords": [
+      "553/02"
+    ],
+    "preview": "previews/science-puzzles-112.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-113",
+    "title": "Rocks in Your Head",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Rocks, Minerals and the Rock Cycle",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/113-rocks-in-your-head.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      16
+    ],
+    "keywords": [
+      "552/02"
+    ],
+    "preview": "previews/science-puzzles-113.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-114",
+    "title": "Rocky Riddles",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Rocks, Minerals and the Rock Cycle",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/114-rocky-riddles.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      16
+    ],
+    "keywords": [
+      "551.8/01"
+    ],
+    "preview": "previews/science-puzzles-114.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-115",
+    "title": "Hot Air",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Weather, Water and Global Systems",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/115-hot-air.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      16
+    ],
+    "keywords": [
+      "551.5/02"
+    ],
+    "preview": "previews/science-puzzles-115.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-116",
+    "title": "Time for a Change",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Physical and Chemical Changes",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/116-time-for-a-change.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      16
+    ],
+    "keywords": [
+      "551.3/01"
+    ],
+    "preview": "previews/science-puzzles-116.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-117",
+    "title": "Mineral Muddle",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Rocks, Minerals and the Rock Cycle",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/117-mineral-muddle.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      6
+    ],
+    "keywords": [
+      "549/01"
+    ],
+    "preview": "previews/science-puzzles-117.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-118",
+    "title": "Clued Up on Carbon",
+    "area": "Science",
+    "subject": "Chemistry",
+    "years": [
+      11,
+      12
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Organic Chemistry and Materials",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/118-clued-up-on-carbon.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      6
+    ],
+    "keywords": [
+      "546.68/01"
+    ],
+    "preview": "previews/science-puzzles-118.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-119",
+    "title": "The Acid Test",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Rates and Patterns of Chemical Reactions",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/119-the-acid-test.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      6
+    ],
+    "keywords": [
+      "546.24/02"
+    ],
+    "preview": "previews/science-puzzles-119.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  },
+  {
+    "id": "science-puzzles-120",
+    "title": "In the Balance",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Laboratory Skills and Equipment",
+    "type": "Puzzle worksheet",
+    "collection": "Science Puzzles",
+    "file": "resources/120-in-the-balance.pdf",
+    "answer": "resources/science-puzzles-answers.pdf",
+    "answerPages": [
+      17
+    ],
+    "keywords": [
+      "546/01"
+    ],
+    "preview": "previews/science-puzzles-120.webp",
+    "previewWidth": 500,
+    "previewHeight": 708
+  }
+]

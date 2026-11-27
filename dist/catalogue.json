@@ -9266,5 +9266,876 @@
     "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-research-vol-2-21.webp",
     "previewWidth": 480,
     "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-a-to-z-puzzle",
+    "title": "Science A to Z Puzzle",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "General Science",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/A%20TO%20Z%20PUZZLE.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-a-to-z-puzzle.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-scienceatozchall2",
+    "title": "Science A to Z Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "General Science",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/ScienceAtoZChall2.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-scienceatozchall2.webp",
+    "previewWidth": 680,
+    "previewHeight": 526
+  },
+  {
+    "id": "science-puzzle-astroconst",
+    "title": "Constellations",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      10
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Astronomy",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/astroconst.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-astroconst.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-astrowdsearch",
+    "title": "Astronomy",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      10
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Astronomy",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/astrowdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-astrowdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-astrozodiac",
+    "title": "Zodiac Constellations",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      10
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Astronomy",
+    "type": "Puzzle worksheet",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "puzzle worksheet"
+    ],
+    "file": "resources/Science/astrozodiac.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-astrozodiac.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-biomewdsearch",
+    "title": "Biome Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Ecosystems and Biomes",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/biomewdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-biomewdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-careerpuzzle",
+    "title": "Career Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "strand": "Science as a Human Endeavour",
+    "topic": "Science Careers",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/careerpuzzle.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-careerpuzzle.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-cellswdsearch",
+    "title": "Cells",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Cells and Microscopy",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/cellswdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-cellswdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-chemwdsearch",
+    "title": "Chemistry",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      9,
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Chemistry Vocabulary",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/chemwdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-chemwdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-eaglewdsearch",
+    "title": "Bald Eagles",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/eaglewdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-eaglewdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-earthsciencepuzzle",
+    "title": "Earth Science",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Earth Science",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/earthsciencepuzzle.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-earthsciencepuzzle.webp",
+    "previewWidth": 526,
+    "previewHeight": 680,
+    "answer": "resources/Science/earthsciencepuzzle.pdf",
+    "answerPages": [
+      2
+    ]
+  },
+  {
+    "id": "science-puzzle-ecowdsearch",
+    "title": "Ecology",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Ecosystems and Biomes",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/ecowdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-ecowdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-elementwdsearch",
+    "title": "Element Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Elements and the Periodic Table",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/elementwdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-elementwdsearch.webp",
+    "previewWidth": 680,
+    "previewHeight": 526
+  },
+  {
+    "id": "science-puzzle-elempuns",
+    "title": "Periodic Table Puns",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Elements and the Periodic Table",
+    "type": "Puzzle worksheet",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "puzzle worksheet"
+    ],
+    "file": "resources/Science/elempuns.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-elempuns.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-elempuns2",
+    "title": "Periodic Table Puns 2",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Elements and the Periodic Table",
+    "type": "Puzzle worksheet",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "puzzle worksheet"
+    ],
+    "file": "resources/Science/elempuns2.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-elempuns2.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-gen-dnachallengepg",
+    "title": "DNA Make-a-Word Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Genetics",
+    "type": "Word puzzle",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word puzzle"
+    ],
+    "file": "resources/Science/gen_dnachallengepg.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-gen-dnachallengepg.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-geneticswdsearch2",
+    "title": "World of Genetics",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      10
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Genetics",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/geneticswdsearch2.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-geneticswdsearch2.webp",
+    "previewWidth": 680,
+    "previewHeight": 526
+  },
+  {
+    "id": "science-puzzle-geo2wdsearch",
+    "title": "Rocks and Minerals 2",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Rocks and Minerals",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/geo2wdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-geo2wdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-geowdsearch",
+    "title": "Rocks and Minerals",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Rocks and Minerals",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/geowdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-geowdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-hlthhumbdychall",
+    "title": "Body Systems Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Body Systems",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/hlthhumbdychall.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-hlthhumbdychall.webp",
+    "previewWidth": 526,
+    "previewHeight": 680,
+    "answer": "resources/Science/hlthhumbdychall.pdf",
+    "answerPages": [
+      2
+    ]
+  },
+  {
+    "id": "science-puzzle-hlthhumbdypuzz",
+    "title": "Human Body Basics",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Body Systems",
+    "type": "Word puzzle",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word puzzle"
+    ],
+    "file": "resources/Science/hlthhumbdypuzz.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-hlthhumbdypuzz.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-hlthnervsyspuzz",
+    "title": "Nervous System Review",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Body Systems",
+    "type": "Crossword",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "crossword"
+    ],
+    "file": "resources/Science/hlthnervsyspuzz.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-hlthnervsyspuzz.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-hlthskelmuscpuzz",
+    "title": "Skeletal and Muscular Systems",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Body Systems",
+    "type": "Crossword",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "crossword"
+    ],
+    "file": "resources/Science/hlthskelmuscpuzz.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-hlthskelmuscpuzz.webp",
+    "previewWidth": 680,
+    "previewHeight": 526
+  },
+  {
+    "id": "science-puzzle-humanbodypuzzle",
+    "title": "Human Body",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      9
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Body Systems",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/humanbodypuzzle.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-humanbodypuzzle.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-inspuzzle",
+    "title": "Insect Terms",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/inspuzzle.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-inspuzzle.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-insvocabpuzzle",
+    "title": "World of Insects",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/insvocabpuzzle.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-insvocabpuzzle.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-inventionpuzzle",
+    "title": "Inventor’s Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "strand": "Science as a Human Endeavour",
+    "topic": "Science and Technology",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/inventionpuzzle.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-inventionpuzzle.webp",
+    "previewWidth": 680,
+    "previewHeight": 526
+  },
+  {
+    "id": "science-puzzle-invertebratesearch",
+    "title": "World of Invertebrates",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/invertebratesearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-invertebratesearch.webp",
+    "previewWidth": 680,
+    "previewHeight": 526
+  },
+  {
+    "id": "science-puzzle-metricchall",
+    "title": "Metric System Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Measurement",
+    "type": "Puzzle worksheet",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "puzzle worksheet"
+    ],
+    "file": "resources/Science/metricchall.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-metricchall.webp",
+    "previewWidth": 526,
+    "previewHeight": 680,
+    "answer": "resources/Science/metricchall.pdf",
+    "answerPages": [
+      2
+    ]
+  },
+  {
+    "id": "science-puzzle-micropuzzle",
+    "title": "Microscope Mania",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Cells and Microscopy",
+    "type": "Word puzzle",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word puzzle"
+    ],
+    "file": "resources/Science/micropuzzle.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-micropuzzle.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-phys2wdsearch",
+    "title": "Sound and Light",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      9
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Sound and Light",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/phys2wdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-phys2wdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-physicspuzzle",
+    "title": "World of Physics",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Physics Vocabulary",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/physicspuzzle.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-physicspuzzle.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-ptablesymwdchall",
+    "title": "Periodic Table Symbol Challenge",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Elements and the Periodic Table",
+    "type": "Word puzzle",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word puzzle"
+    ],
+    "file": "resources/Science/ptablesymwdchall.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-ptablesymwdchall.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-ptblpuzzle",
+    "title": "Periodic Table Crossword",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      8,
+      10
+    ],
+    "strand": "Chemical Sciences",
+    "topic": "Elements and the Periodic Table",
+    "type": "Crossword",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "crossword"
+    ],
+    "file": "resources/Science/ptblpuzzle.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-ptblpuzzle.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-scimthdwdsearch",
+    "title": "Scientific Method",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Science Inquiry",
+    "topic": "Scientific Method",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/scimthdwdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-scimthdwdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-smachwdsearch",
+    "title": "Simple Machines",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Physical Sciences",
+    "topic": "Simple Machines",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/smachwdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-smachwdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-supersciwdsearch",
+    "title": "Super Scientists",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "strand": "Science as a Human Endeavour",
+    "topic": "Science Careers",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/supersciwdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-supersciwdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-supersciwkst",
+    "title": "Super Scientists Career Code",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "strand": "Science as a Human Endeavour",
+    "topic": "Science Careers",
+    "type": "Code puzzle",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "code puzzle"
+    ],
+    "file": "resources/Science/supersciwkst.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-supersciwkst.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-vertebrate-wordsearch",
+    "title": "Vertebrate Groups",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7
+    ],
+    "strand": "Biological Sciences",
+    "topic": "Classification",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/vertebrate_wordsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-vertebrate-wordsearch.webp",
+    "previewWidth": 680,
+    "previewHeight": 526
+  },
+  {
+    "id": "science-puzzle-weatherwdsearch",
+    "title": "Weather",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Weather and Storms",
+    "type": "Word search",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "word search"
+    ],
+    "file": "resources/Science/weatherwdsearch.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-weatherwdsearch.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
+  },
+  {
+    "id": "science-puzzle-wthrstorms",
+    "title": "Storms",
+    "area": "Science",
+    "subject": "Science",
+    "years": [
+      7,
+      8
+    ],
+    "strand": "Earth and Space Sciences",
+    "topic": "Weather and Storms",
+    "type": "Puzzle worksheet",
+    "collection": "Science Spot Puzzles",
+    "keywords": [
+      "puzzle worksheet"
+    ],
+    "file": "resources/Science/wthrstorms.pdf",
+    "preview": "https://puzzles-vault.jjdcruz27.chatgpt.site/previews/science-puzzle-wthrstorms.webp",
+    "previewWidth": 526,
+    "previewHeight": 680
   }
 ]
